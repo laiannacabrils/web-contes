@@ -1,0 +1,26 @@
+body{
+    background: url('../imatges/cavalls.jpg') left top;
+    text-align: center;
+}
+h1{
+ color : #cf8cff;
+ font-family : impact;
+
+}
+h2{
+ color : #7e0af9;
+ font-family : seoge script;
+}
+p{
+ color : #b83dba;
+ font-family :  gabriola; 
+}
+div{
+    width: 640px;
+    background-color: #8cfffb;
+    margin:auto;
+    padding: 20px;
+}
+ul{
+    list-style: none;
+}
