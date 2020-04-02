@@ -14,13 +14,13 @@ h2{
 p{
  color : #b83dba;
  font-family :  gabriola;
- font-size: 20px; 
+ font-size: 40px; 
 }
 div{
     width: 640px;
     background-color: #8cfffb;
     margin:auto;
-    padding: 30px;
+    padding: 20px;
 }
 ul{
     list-style: none;
